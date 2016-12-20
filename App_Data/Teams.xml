@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<!DOCTYPE teams SYSTEM "teams.dtd">
+<!--Author: Scott Robinson
+    December 2016
+    XML Final Project
+    The goal of this application is to allow users to select a variety of football leagues and view the teams with the most titles won and the amount of European
+    titles they have won.-->
+<teams>
+
+  <team league="Championship">
+    <name>Newcastle United</name>
+    <city>Newcastle</city>
+    <titles>3</titles>
+    <runnersup>0</runnersup>
+    <lastyearwon>2009-10</lastyearwon>
+    <europeantitles>0</europeantitles>
+  </team>
+
+  <team league="Championship">
+    <name>Leeds United</name>
+    <city>Leeds</city>
+    <titles>3</titles>
+    <runnersup>3</runnersup>
+    <lastyearwon>1989-90</lastyearwon>
+    <europeantitles>0</europeantitles>
+  </team>
+
+  <team league="Championship">
+    <name>Preston North End</name>
+    <city>Preston</city>
+    <titles>3</titles>
+    <runnersup>2</runnersup>
+    <lastyearwon>1950-51</lastyearwon>
+    <europeantitles>0</europeantitles>
+  </team>
+
+  <team league="Premiere">
+    <name>Manchester United</name>
+    <city>Manchester</city>
+    <titles>20</titles>
+    <runnersup>15</runnersup>
+    <lastyearwon>2012-13</lastyearwon>
+    <europeantitles>3</europeantitles>
+  </team>
+
+  <team league="Premiere">
+    <name>Liverpool</name>
+    <city>Liverpool</city>
+    <titles>18</titles>
+    <runnersup>13</runnersup>
+    <lastyearwon>1989-90</lastyearwon>
+    <europeantitles>5</europeantitles>
+  </team>
+
+  <team league="Premiere">
+    <name>Arsenal</name>
+    <city>London</city>
+    <titles>13</titles>
+    <runnersup>9</runnersup>
+    <lastyearwon>2003-04</lastyearwon>
+    <europeantitles>0</europeantitles>
+  </team>
+
+  <team league="LaLiga">
+    <name>Real Madrid</name>
+    <city>Madrid</city>
+    <titles>32</titles>
+    <runnersup>23</runnersup>
+    <lastyearwon>2011-12</lastyearwon>
+    <europeantitles>11</europeantitles>
+  </team>
+
+  <team league="LaLiga">
+    <name>Atletico Madrid</name>
+    <city>Madrid</city>
+    <titles>10</titles>
+    <runnersup>8</runnersup>
+    <lastyearwon>2013-14</lastyearwon>
+    <europeantitles>0</europeantitles>
+  </team>
+
+  <team league="LaLiga">
+    <name>Barcelona</name>
+    <city>Barcelona</city>
+    <titles>24</titles>
+    <runnersup>24</runnersup>
+    <lastyearwon>2015-16</lastyearwon>
+    <europeantitles>5</europeantitles>
+  </team>
+
+  <team league="Bundesliga">
+    <name>Borussia Dortmund</name>
+    <city>Dortmund</city>
+    <titles>8</titles>
+    <runnersup>7</runnersup>
+    <lastyearwon>2011-12</lastyearwon>
+    <europeantitles>1</europeantitles>
+  </team>
+
+  <team league="Bundesliga">
+    <name>Bayern Munich</name>
+    <city>Munich</city>
+    <titles>26</titles>
+    <runnersup>0</runnersup>
+    <lastyearwon>2015-16</lastyearwon>
+    <europeantitles>5</europeantitles>
+  </team>
+  <team league="Bundesliga">
+    <name>Bayer Leverkusen</name>
+    <city>Leverkusen</city>
+    <titles>0</titles>
+    <runnersup>5</runnersup>
+    <lastyearwon>N/A</lastyearwon>
+    <europeantitles>0</europeantitles>
+  </team>
+  
+  
+</teams>

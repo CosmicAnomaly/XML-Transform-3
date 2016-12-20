@@ -1,0 +1,15 @@
+﻿<!ELEMENT teams (team+)>
+<!--Author: Scott Robinson
+    December 2016
+    XML Final Project
+    The goal of this application is to allow users to select a variety of football leagues and view the teams with the most titles won and the amount of European
+    titles they have won.-->
+<!ELEMENT team (name, city, titles, runnersup, lastyearwon, europeantitles)>
+<!ATTLIST team league (Championship | Premiere | LaLiga | Bundesliga) #REQUIRED>
+
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT city (#PCDATA)>
+<!ELEMENT titles (#PCDATA)>
+<!ELEMENT runnersup (#PCDATA)>
+<!ELEMENT lastyearwon (#PCDATA)>
+<!ELEMENT europeantitles (#PCDATA)>
